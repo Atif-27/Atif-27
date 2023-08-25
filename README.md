@@ -26,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif-27&show_icons=true&locale=en&layout=compact" alt="atif-27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif-27&show_icons=true&locale=en" alt="atif-27" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=atiff&layout=compact&theme=dracula" />
