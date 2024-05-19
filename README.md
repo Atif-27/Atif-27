@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Atif Ali</h1>
-<h3 align="center">Aspiring MERN stack Developer</h3>
+<h3 align="center">MERN stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-27&label=Profile%20views&color=0e75b6&style=flat" alt="atif-27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/atifxs" target="blank"><img src="https://img.shields.io/twitter/follow/atifxs?logo=twitter&style=for-the-badge" alt="atifxs" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📝 I regularly write articles on [https://atifff.hashnode.dev/](https://atifff.hashnode.dev/)
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **atif276ali@gmail.com**
 
